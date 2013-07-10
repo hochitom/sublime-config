@@ -3,12 +3,14 @@
 	"installed_packages":
 	[
 		"AlignTab",
+		"AngularJS",
 		"EasyMotion",
 		"Emmet",
 		"FileSystem Autocompletion",
 		"HTML5",
 		"HTMLAttributes",
 		"Jade",
+		"jQuery",
 		"JSHint",
 		"Package Control",
 		"sublime-jslint"
