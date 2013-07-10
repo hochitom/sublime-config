@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns": [".sass-cache"],
+			"file_exclude_patterns": ["*.cs", ".config", ".tern-project", "*.sln"]
+		}
+	],
+	"settings": {
+		"tab_size": 4
+	},
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage",
+		"sublime-jslint"
+	]
+}

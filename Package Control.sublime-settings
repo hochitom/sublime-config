@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AlignTab",
+		"EasyMotion",
+		"Emmet",
+		"FileSystem Autocompletion",
+		"HTML5",
+		"HTMLAttributes",
+		"Jade",
+		"JSHint",
+		"Package Control",
+		"sublime-jslint"
+	],
+	"repositories":
+	[
+		"easy motion"
+	]
+}
