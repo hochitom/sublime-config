@@ -12,11 +12,14 @@
 		"Jade",
 		"jQuery",
 		"JSHint",
+		"Nettuts+ Fetch",
 		"Package Control",
+		"Prefixr",
 		"sublime-jslint"
 	],
 	"repositories":
 	[
-		"easy motion"
+		"easy motion",
+		"https://github.com/mrmartineau/HTML5"
 	]
 }
