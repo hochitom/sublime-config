@@ -1,25 +1,7 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"AlignTab",
-		"AngularJS",
-		"EasyMotion",
 		"Emmet",
-		"FileSystem Autocompletion",
-		"HTML5",
-		"HTMLAttributes",
-		"Jade",
-		"jQuery",
-		"JSHint",
-		"Nettuts+ Fetch",
-		"Package Control",
-		"Prefixr",
-		"sublime-jslint"
-	],
-	"repositories":
-	[
-		"easy motion",
-		"https://github.com/mrmartineau/HTML5"
+		"Jade"
 	]
 }
