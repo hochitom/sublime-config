@@ -2,6 +2,8 @@
 	"installed_packages":
 	[
 		"Emmet",
-		"Jade"
+		"HTML5",
+		"Jade",
+		"Nettuts+ Fetch"
 	]
 }
