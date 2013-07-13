@@ -1,9 +1,12 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
+		"Bower",
 		"Emmet",
 		"HTML5",
 		"Jade",
-		"Nettuts+ Fetch"
+		"Nettuts+ Fetch",
+		"SublimeCodeIntel"
 	]
 }
